@@ -1,0 +1,42 @@
+{
+  "group": "quality_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "1": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "2": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "3": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "4": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "5": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "6": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "7": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "8": {
+      "item": "quality_ores:obstridian_ingot"
+    }
+  },
+  "result": {
+    "item": "quality_ores:obstridian_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,918 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EnderStrideIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_ingot"
+    },
+    {
+      "name": "EnderStrideOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_ore"
+    },
+    {
+      "name": "EnderStrideBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_block"
+    },
+    {
+      "name": "EnderStrideOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_ore_block_recipe"
+    },
+    {
+      "name": "EnderStrideBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_block_ore_recipe"
+    },
+    {
+      "name": "EnderStrideOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_ore_smelting"
+    },
+    {
+      "name": "EnderStridePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_pickaxe"
+    },
+    {
+      "name": "EnderStrideAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_axe"
+    },
+    {
+      "name": "EnderStrideSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_sword"
+    },
+    {
+      "name": "EnderStrideShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_shovel"
+    },
+    {
+      "name": "EnderStrideHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_hoe"
+    },
+    {
+      "name": "EnderStridePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_pickaxe_recipe"
+    },
+    {
+      "name": "EnderStrideAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_axe_recipe"
+    },
+    {
+      "name": "EnderStrideSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_sword_recipe"
+    },
+    {
+      "name": "EnderStrideShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_shovel_recipe"
+    },
+    {
+      "name": "EnderStrideHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_hoe_recipe"
+    },
+    {
+      "name": "EnderStrideArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderStrideArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderStrideArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_armor_body_recipe"
+    },
+    {
+      "name": "EnderStrideArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderStrideArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stride_armor_boots_recipe"
+    },
+    {
+      "name": "ObstridianIngot",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_ingot"
+    },
+    {
+      "name": "ObstridianOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_ore"
+    },
+    {
+      "name": "ObstridianBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_block"
+    },
+    {
+      "name": "ObstridianOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_ore_block_recipe"
+    },
+    {
+      "name": "ObstridianBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_block_ore_recipe"
+    },
+    {
+      "name": "ObstridianOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_ore_smelting"
+    },
+    {
+      "name": "ObstridianPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_pickaxe"
+    },
+    {
+      "name": "ObstridianAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_axe"
+    },
+    {
+      "name": "ObstridianSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_sword"
+    },
+    {
+      "name": "ObstridianShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_shovel"
+    },
+    {
+      "name": "ObstridianHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_hoe"
+    },
+    {
+      "name": "ObstridianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_pickaxe_recipe"
+    },
+    {
+      "name": "ObstridianAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_axe_recipe"
+    },
+    {
+      "name": "ObstridianSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_sword_recipe"
+    },
+    {
+      "name": "ObstridianShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_shovel_recipe"
+    },
+    {
+      "name": "ObstridianHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_hoe_recipe"
+    },
+    {
+      "name": "ObstridianArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObstridianArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_armor_helmet_recipe"
+    },
+    {
+      "name": "ObstridianArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_armor_body_recipe"
+    },
+    {
+      "name": "ObstridianArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_armor_leggings_recipe"
+    },
+    {
+      "name": "ObstridianArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obstridian_armor_boots_recipe"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "Saphire",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire"
+    },
+    {
+      "name": "SaphireOre",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore"
+    },
+    {
+      "name": "SaphireBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_block"
+    },
+    {
+      "name": "SaphireOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore_block_recipe"
+    },
+    {
+      "name": "SaphireBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_block_ore_recipe"
+    },
+    {
+      "name": "SaphireOreSmelting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_ore_smelting"
+    },
+    {
+      "name": "SaphirePickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_pickaxe"
+    },
+    {
+      "name": "SaphireAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_axe"
+    },
+    {
+      "name": "SaphireSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_sword"
+    },
+    {
+      "name": "SaphireShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_shovel"
+    },
+    {
+      "name": "SaphireHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_hoe"
+    },
+    {
+      "name": "SaphirePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_pickaxe_recipe"
+    },
+    {
+      "name": "SaphireAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_axe_recipe"
+    },
+    {
+      "name": "SaphireSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_sword_recipe"
+    },
+    {
+      "name": "SaphireShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_shovel_recipe"
+    },
+    {
+      "name": "SaphireHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_hoe_recipe"
+    },
+    {
+      "name": "SaphireArmor",
+      "type": "armor",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SaphireArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_armor_helmet_recipe"
+    },
+    {
+      "name": "SaphireArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_armor_body_recipe"
+    },
+    {
+      "name": "SaphireArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_armor_leggings_recipe"
+    },
+    {
+      "name": "SaphireArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphire_armor_boots_recipe"
+    },
+    {
+      "name": "Bio",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio"
+    },
+    {
+      "name": "BioOre",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio_ore"
+    },
+    {
+      "name": "BioBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio_block"
+    },
+    {
+      "name": "BioOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio_ore_block_recipe"
+    },
+    {
+      "name": "BioBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio_block_ore_recipe"
+    },
+    {
+      "name": "BioOreSmelting",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bio_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.quality_ores.ender_stride_axe": "EnderStride Axe",
+      "item.quality_ores.saphire_pickaxe": "Saphire Pickaxe",
+      "block.quality_ores.saphire_ore": "Saphire Ore",
+      "item.quality_ores.saphire_sword": "Saphire Sword",
+      "item.quality_ores.ender_stride_armor_helmet": "EnderStride Helmet",
+      "item.quality_ores.ruby": "Ruby",
+      "item.quality_ores.ruby_pickaxe": "Ruby Pickaxe",
+      "item.quality_ores.ender_stride_sword": "EnderStride Sword",
+      "item.quality_ores.ruby_sword": "Ruby Sword",
+      "item.quality_ores.ender_stride_ingot": "EnderStride",
+      "block.quality_ores.obstridian_ore": "Obstridian Ore",
+      "block.quality_ores.obstridian_block": "Block of Obstridian",
+      "item.quality_ores.saphire_armor_chestplate": "Saphire Chestplate",
+      "item.quality_ores.ender_stride_armor_leggings": "EnderStride Leggings",
+      "item.quality_ores.ruby_armor_leggings": "Ruby Leggings",
+      "item.quality_ores.saphire": "Saphire",
+      "item.quality_ores.ruby_armor_boots": "Ruby Boots",
+      "item.quality_ores.obstridian_pickaxe": "Obstridian Pickaxe",
+      "item.quality_ores.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.quality_ores.ruby_armor_helmet": "Ruby Helmet",
+      "item.quality_ores.obstridian_axe": "Obstridian Axe",
+      "block.quality_ores.ruby_block": "Block of Ruby",
+      "item.quality_ores.obstridian_sword": "Obstridian Sword",
+      "item.quality_ores.obstridian_armor_chestplate": "Obstridian Chestplate",
+      "item.quality_ores.bio": "Bio",
+      "item.quality_ores.saphire_hoe": "Saphire Hoe",
+      "item.quality_ores.ender_stride_armor_chestplate": "EnderStride Chestplate",
+      "item.quality_ores.obstridian_armor_leggings": "Obstridian Leggings",
+      "item.quality_ores.ender_stride_armor_boots": "EnderStride Boots",
+      "item.quality_ores.saphire_shovel": "Saphire Shovel",
+      "item.quality_ores.saphire_armor_leggings": "Saphire Leggings",
+      "block.quality_ores.saphire_block": "Block of Saphire",
+      "item.quality_ores.ruby_hoe": "Ruby Hoe",
+      "item.quality_ores.obstridian_armor_helmet": "Obstridian Helmet",
+      "item.quality_ores.saphire_armor_boots": "Saphire Boots",
+      "block.quality_ores.bio_block": "Block of Bio",
+      "item.quality_ores.ender_stride_shovel": "EnderStride Shovel",
+      "item.quality_ores.obstridian_shovel": "Obstridian Shovel",
+      "item.quality_ores.ruby_shovel": "Ruby Shovel",
+      "item.quality_ores.saphire_armor_helmet": "Saphire Helmet",
+      "block.quality_ores.bio_ore": "Bio Ore",
+      "item.quality_ores.ruby_axe": "Ruby Axe",
+      "item.quality_ores.ender_stride_pickaxe": "EnderStride Pickaxe",
+      "item.quality_ores.obstridian_ingot": "Obstridian",
+      "item.quality_ores.ender_stride_hoe": "EnderStride Hoe",
+      "item.quality_ores.obstridian_hoe": "Obstridian Hoe",
+      "block.quality_ores.ender_stride_block": "Block of EnderStride",
+      "item.quality_ores.saphire_axe": "Saphire Axe",
+      "block.quality_ores.ruby_ore": "Ruby Ore",
+      "block.quality_ores.ender_stride_ore": "EnderStride Ore",
+      "item.quality_ores.obstridian_armor_boots": "Obstridian Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "quality_ores",
+    "modName": "Quality oressssss",
+    "version": "1.0.0",
+    "author": "Ray Whitely, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.qualityores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

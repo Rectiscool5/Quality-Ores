@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "quality_ores:items/saphire_sword"
+  }
+}

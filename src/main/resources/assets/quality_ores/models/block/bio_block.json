@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "quality_ores:blocks/bio_ore_block",
+    "particle": "quality_ores:blocks/bio_ore_block"
+  }
+}

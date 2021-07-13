@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "quality_ores:block/bio_block"
+    }
+  }
+}

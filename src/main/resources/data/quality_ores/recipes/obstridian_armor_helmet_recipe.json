@@ -1,0 +1,29 @@
+{
+  "group": "quality_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "1": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "2": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "3": {
+      "item": "quality_ores:obstridian_ingot"
+    },
+    "5": {
+      "item": "quality_ores:obstridian_ingot"
+    }
+  },
+  "result": {
+    "item": "quality_ores:obstridian_armor_helmet",
+    "count": 1
+  }
+}

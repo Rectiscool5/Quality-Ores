@@ -1,0 +1,26 @@
+{
+  "group": "quality_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "quality_ores:ruby"
+    },
+    "2": {
+      "item": "quality_ores:ruby"
+    },
+    "3": {
+      "item": "quality_ores:ruby"
+    },
+    "5": {
+      "item": "quality_ores:ruby"
+    }
+  },
+  "result": {
+    "item": "quality_ores:ruby_armor_boots",
+    "count": 1
+  }
+}

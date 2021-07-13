@@ -1,0 +1,12 @@
+{
+  "group": "quality_ores",
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "quality_ores:ender_stride_ore"
+  },
+  "result": {
+    "item": "quality_ores:ender_stride_ingot"
+  }
+}
