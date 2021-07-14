@@ -6,9 +6,9 @@
     "texture": "obstridian_ingot",
     "customModelName": "Normal",
     "name": "Obstridian",
-    "rarity": "COMMON",
+    "rarity": "UNCOMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:QO"
     },
     "stackSize": 64,
     "enchantability": 0,

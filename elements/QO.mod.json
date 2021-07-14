@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Qaulity Ores",
+    "icon": {
+      "value": "CUSTOM:EnderStrideSword"
+    },
+    "showSearch": true
+  }
+}
